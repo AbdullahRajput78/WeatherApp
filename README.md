@@ -21,8 +21,7 @@ current weather information using a REST API.
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="screenshots/home.png" width="250">
-  <img src="screenshots/search.png" width="250">
-  <img src="screenshots/details.png" width="250">
+  <img src="screenshot/home.jpeg" width="250">
+ 
 </p>
 
